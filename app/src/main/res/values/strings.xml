@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="buttonSave">Save</string>
+    <string name="taskDescriptionHint">Your Task Description</string>
+    <string name="taskTitleHint">Your Task Title</string>
+    <string name="contentDescriptionFloatingActionButton">Add Task</string>
+</resources>
