@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TODOLIST</string>
+    <string name="title_textview">My Tasks</string>
+    <string name="done">Done</string>
+    <string name="task_number">1</string>
+    <string name="task_description">Go to the market</string>
+    <string name="delete_content_description">Delete</string>
+    <string name="date_content_description">Date</string>
+    <string name="button_add_description">Add</string>
+    <string name="button_clear_description">Clear</string>
+
+</resources>
